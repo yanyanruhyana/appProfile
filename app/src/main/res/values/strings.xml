@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Profile</string>
+    <string name="npm">NPM : 1669700006</string>
+    <string name="nama">Nama : Yanyan Ruhyana</string>
+    <string name="prodi">Prodi : Teknik Komputer dan Jaringan</string>
+    <string name="button1">FOLLOW ME</string>
+    <string name="button2">SUBSCRIBE</string>
+    <string name="button3">SEE DETAIL</string>
+
+</resources>
